@@ -1,9 +1,6 @@
 # High-throughput mesoscopic optical imaging data processing and parsing using differential-guided filtered neural networks
-
+** We design a efficient deep differential guided filtering module (DDGF) by fusing multi-scale iterative differential guided filtering with deep learning, which effectively refines image details while mitigating background noise. Subsequently, by amalgamating DDGF with deep learning network, we propose a lightweight automatic segmentation method DDGF-SegNet, which demonstrates robust performance on our dataset, achieving Dice of 0.92, Precision of 0.98, Recall of 0.91, and Jaccard index of 0.86. **
 ## **一、课题调研**
-
-**Automated Mouse Organ Segmentation: A Deep Learning Based Solution**
-
 **自动小鼠器官分割：基于深度学习的解决方案**
 
 目前，在这样的小鼠横切面图像中，**器官是手动识别**的，这是一个**劳动密集型**的过程，**耗时且不健壮**，这导致需要使用大量的实验动物。针对这一问题，我们提出了一种基于深度学习的器官分割解决方案，利用该解决方案，我们可以对**感兴趣的关键器官实现高精度的自动器官分割**（骰子系数在0.83-0.95之间，具体取决于器官）。
