@@ -1,8 +1,4 @@
-High-throughput mesoscopic optical imaging data processing and parsing using differential-guided filtered neural networks
-
-
-
-# 2024/11/24
+# High-throughput mesoscopic optical imaging data processing and parsing using differential-guided filtered neural networks
 
 ## **一、课题调研**
 
