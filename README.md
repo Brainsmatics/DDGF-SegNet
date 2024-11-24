@@ -13,7 +13,11 @@ Since the entire automated high-throughput preprocessing pipeline is primarily d
 ## Main references
 
 1\. Yang Y, Jiang T, Jia X, et al. Whole-brain connectome of GABAergic neurons in the mouse zona incerta\[J\]. Neuroscience Bulletin, 2022, 38(11): 1315-1329.
+
 2\. Muñoz-Castañeda R, Zingg B, Matho K S, et al. Cellular anatomy of the mouse primary motor cortex\[J\]. Nature, 2021, 598(7879): 159-166.
+
 3\. Chen S, Liu G, Li A, et al. Three-dimensional mapping in multi-samples with large-scale imaging and multiplexed post staining\[J\]. Communications Biology, 2023, 6(1): 148.
+
 4\. Li J, Jin P, Zhu J, et al. Multi-scale GCN-assisted two-stage network for joint segmentation of retinal layers and discs in peripapillary OCT images\[J\]. Biomedical Optics Express, 2021, 12(4): 2204-2220.
+
 5\. S. Borkovkina, A. Camino, W. Janpongsri, M. V. Sarunic, and Y. Jian, “Real-time retinal layer segmentation of oct volumes with gpu accelerated inferencing using a compressed, low-latency neural network,” Biomed. Opt. Express 11(7), 3968 (2020).
