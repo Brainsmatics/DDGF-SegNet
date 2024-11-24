@@ -1,5 +1,5 @@
 # High-throughput mesoscopic optical imaging data processing and parsing using differential-guided filtered neural networks
-** We design a efficient deep differential guided filtering module (DDGF) by fusing multi-scale iterative differential guided filtering with deep learning, which effectively refines image details while mitigating background noise. Subsequently, by amalgamating DDGF with deep learning network, we propose a lightweight automatic segmentation method DDGF-SegNet, which demonstrates robust performance on our dataset, achieving Dice of 0.92, Precision of 0.98, Recall of 0.91, and Jaccard index of 0.86. **
+ We design a efficient deep differential guided filtering module (DDGF) by fusing multi-scale iterative differential guided filtering with deep learning, which effectively refines image details while mitigating background noise. Subsequently, by amalgamating DDGF with deep learning network, we propose a lightweight automatic segmentation method DDGF-SegNet, which demonstrates robust performance on our dataset, achieving Dice of 0.92, Precision of 0.98, Recall of 0.91, and Jaccard index of 0.86. 
 ## **一、课题调研**
 **自动小鼠器官分割：基于深度学习的解决方案**
 
